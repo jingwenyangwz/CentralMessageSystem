@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="D:\Program Files (x86)\JAVA ORACLE" version="1.8.0_181">
+<bootpath>
+<entry path="D:\Program Files (x86)\JAVA ORACLE\lib\resources.jar"/>
+<entry path="D:\Program Files (x86)\JAVA ORACLE\lib\rt.jar"/>
+<entry path="D:\Program Files (x86)\JAVA ORACLE\lib\sunrsasign.jar"/>
+<entry path="D:\Program Files (x86)\JAVA ORACLE\lib\jsse.jar"/>
+<entry path="D:\Program Files (x86)\JAVA ORACLE\lib\jce.jar"/>
+<entry path="D:\Program Files (x86)\JAVA ORACLE\lib\charsets.jar"/>
+<entry path="D:\Program Files (x86)\JAVA ORACLE\lib\jfr.jar"/>
+<entry path="D:\Program Files (x86)\JAVA ORACLE\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\Program Files (x86)\JAVA ORACLE\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\Program Files (x86)\JAVA ORACLE\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
